@@ -24,10 +24,12 @@
     "express": "^4.12.3",
     "graceful-fs": "^3.0.6",
     "less": "^2.5.0",
+    "less-stream": "^0.1.4",
     "npmlog": "^1.2.0",
     "serve-index": "^1.6.3",
-    "serve-static": "^1.9.2"
-  }, 
+    "serve-static": "^1.9.2",
+    "through2": "^0.6.5"
+  },
   "bugs": {
     "url": "https://github.com/vigour-io/gaston/issues"
   },

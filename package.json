@@ -1,6 +1,6 @@
 {
   "name": "gastona",
-  "version": "0.9.10",
+  "version": "0.9.11",
   "preferGlobal": true,
   "description": "buildtool for vigour-io",
   "main": "gaston.js",

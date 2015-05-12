@@ -1,16 +1,16 @@
 {
-  "name": "gaston",
+  "name": "gastona",
   "version": "0.9.10",
   "preferGlobal": true,
   "description": "buildtool for vigour-io",
   "main": "gaston.js",
   "author": {
-    "name": "Vigour.io",
-    "email": "dev@vigour.io"
+    "name": "andrepadez",
+    "email": "andre.padez@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vigour-io/gaston.git"
+    "url": "https://github.com/andrepadez/gaston.git"
   },
   "bin": {
     "gaston": "bin/gaston.js"
@@ -45,13 +45,12 @@
     "stripify": "^3.0.0",
     "through2": "^0.6.5",
     "uglify-js": "^2.4.20",
-    "vigour-js": "git+ssh://git@github.com:vigour-io/vigour-js.git#flux",
     "watchify": "^3.1.2"
   },
   "bugs": {
-    "url": "https://github.com/vigour-io/gaston/issues"
+    "url": "https://github.com/andrepadez/gaston/issues"
   },
-  "homepage": "https://github.com/vigour-io/gaston",
+  "homepage": "https://github.com/andrepadez/gaston",
   "engine": "node 0.12.x",
   "devDependencies": {
     "aliasify": "^1.7.2"
